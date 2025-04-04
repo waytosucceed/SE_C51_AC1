@@ -1,0 +1,277 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "Five neighbors live in a row of houses. Each enjoys a unique hobby and uses a different pet for company.<ul style='text-align:start'><li>Mrs. Lake enjoys painting and lives next to Mr. Stone, who lives in the first house and has a parrot.</li><li>Dr. Brown has a cat.</li><li>The one who enjoys hiking lives in the middle house.</li><li>Miss Silver owns a dog and does not enjoy swimming.</li><li>The person who likes swimming does not keep a rabbit.</li><li>Ms. Gold enjoys chess; she lives next to Miss Silver and two houses away from Dr. Brown.</li><li>The rabbit owner is also the one who enjoys chess.</li><li>The person who enjoys reading lives next to the person who likes hiking.</li></ul>Who lives in the last house on the right?",
+      "options": [
+          "Ms. Gold",
+          "Miss Silver",
+          "Dr. Brown",
+          "Mrs. Lake"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Aria applied for a spot in a music masterclass. She had to meet certain conditions:<ul style='text-align:start'><li>If the applicant had prior training, they only needed to pass a rhythm test.</li><li>If the applicant had no prior training, they needed either an outstanding rhythm test result or to pass both the rhythm test and a pitch challenge.</li></ul>Aria has trained for years in music but wasn’t accepted into the class.<br>What is the most likely reason?",
+      "options": [
+          "She failed the rhythm test.",
+          "Her rhythm test result was not outstanding.",
+          "She failed the pitch challenge.",
+          "She failed both tests."
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q3",
+      "question": "If Colin doesn't stretch before practice, he gets sore muscles.<br>If he has sore muscles, he underperforms during training.<br>If he performs well in training, he might get selected for the regional team. If not, he definitely won’t.<br>Which of the following scenarios is NOT possible?",
+      "options": [
+          "Colin didn't stretch but still got selected.",
+          "Colin stretched but didn’t get selected.",
+          "Colin performed well but wasn’t selected.",
+          "Colin was sore but still performed well."
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Five students attempted a quiz with five challenging problems.<ul style='text-align:start'><li>Zoe was faster than Lydia but got two answers wrong.</li><li>Ryan answered all questions correctly but finished last.</li><li>Bella finished second and got one answer wrong.</li><li>Lydia got more answers right than Bella but finished after her.</li><li>Mia wasn’t as quick as Bella, and Bella was slower than Zoe.</li></ul>Which of the following CANNOT be true?",
+      "options": [
+          "Lydia got fewer correct answers than Ryan.",
+          "Zoe was quicker than Mia.",
+          "Zoe didn’t finish first.",
+          "Zoe got the fewest answers correct."
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q5",
+      "question": "A poll was done about people’s interest in books. The following rules were observed:<ul style='text-align:start'><li>Everyone who likes mystery novels also likes history books.</li><li>Everyone who likes history books also enjoys science fiction.</li><li>But no one who enjoys history books likes comic books.</li></ul>Four people—Nina, Felix, Omar, and Tessa—were surveyed.<br>Which statement MUST be true based on the information?",
+      "options": [
+          "If Felix enjoys science fiction, he also enjoys history.",
+          "If Omar does not like comic books, he doesn’t like science fiction.",
+          "If Nina doesn’t enjoy mystery novels, she doesn’t enjoy science fiction.",
+          "If Tessa likes mystery novels, she doesn’t like comic books."
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q6",
+      "question": "A commercial for a headache pill says:<br>\"HEAD-EZ never fails to relieve a headache.\"<br>Four people with headaches took medication, and two questions were recorded for each:<br>Which two of the missing entries must be known to test the truth of the claim in the advertisement?<br><img width='60%' src='./assests/images/1.png'>",
+      "options": [
+          "a and d",
+          "b and d",
+          "a and b",
+          "c and d"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q7",
+      "question": "Kelly wants to persuade her cousin Olivia to attend the school concert. Her only chance of convincing Olivia is if her brother, Matt, is accepted into the school orchestra. The catch is that the audition standard is very high—so high that even very talented musicians are sometimes turned away if they don’t practice enough. In fact, Matt doesn’t practice hard enough to reach that level.<br>If the above information is correct, which one of the following is not possible?",
+      "options": [
+          "Matt impresses the conductor at the audition but is not invited to join the orchestra.",
+          "Matt practices hard but does not impress the conductor at the audition.",
+          "Matt is accepted into the orchestra, but Olivia does not come to the concert.",
+          "Matt does not impress the conductor, but Olivia still comes to the concert."
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q8",
+      "question": "I’m hiding in one of three lockers. Each locker door has two statements written on it.<br>No more than one statement on any door is false.<br>Locker 1<ul style='text-align:start'><li>My name is Kiran</li><li>I am not in this locker</li></ul>Locker 2<ul style='text-align:start'><li>I am not this locker</li><li>I am in Locker 3</li></ul>Locker 3<ul style='text-align:start'><li>My name is Leo</li><li>I am not in Locker 1</li></ul>Which one of the following statements must be true?",
+      "options": [
+          "I’m in Locker 1",
+          "I’m in Locker 3",
+          "I’m in Locker 2",
+          "My name is Leo"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q9",
+      "question": "Four athletes competed to see who could run the fastest in a 5K race. The athletes are—Mason, Ava, Logan, and Sophia. You are given the following clues:<ol style='text-align:start'><li>Mason did not finish last.</li><li>Only two athletes finished slower than Ava.</li><li>Logan finished slower than Sophia.</li></ol>Which one of the following must also be true?",
+      "options": [
+          "Logan finished faster than Ava.",
+          "Ava finished faster than Logan.",
+          "Ava finished faster than Sophia.",
+          "Sophia finished faster than Ava."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q10",
+      "question": "An author wrote three mystery novels: \"Whispers\", \"Shadows\", and \"Fog\". A class survey showed:<ul style='text-align:start'><li>All students who read \"Whispers\" also read \"Shadows\".</li><li>Most who read \"Whispers\" also read \"Fog\".</li><li>No one read \"Fog\" without having read \"Shadows\".</li></ul>We know that Mia has read \"Shadows\". Which one of the following statements is definitely true?",
+      "options": [
+          "She also read \"Fog\".",
+          "She also read \"Whispers\".",
+          "She did not read \"Fog\".",
+          "We don’t know whether she read \"Whispers\" or \"Fog\"."
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q11",
+      "question": "If we don’t raise half the money for the field trip, it will be cancelled.<br>If the trip happens and everyone behaves well, we might be allowed to organize another trip next year.<br>However, the trip won’t be considered a success unless everyone returns on time.<br>If the trip is not a success, then we won’t get approval for next year’s trip.<br>Which one of the following situations is not possible?",
+      "options": [
+          "The trip was cancelled even though all the money was raised.",
+          "They were approved for another trip despite the first one not being a success.",
+          "The trip wasn’t a success even though everyone returned on time.",
+          "The trip went ahead but wasn’t approved for next year because students misbehaved."
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q12",
+      "question": "Alice and Jamie are secret agents who use a special code to send messages. In this code, each letter of the English alphabet is represented by a one‑digit number according to the following table:<br><img width='90%' src='./assests/images/2.png'><br>For example, the word CARD is encoded as 3‑1‑8‑4.<br>To test their system, Alice sends Jamie four coded words. Jamie decodes them as follows:<br>BONE, MIST, FOLD, GLOW<br>Jamie is confident that three of these words are correct, but she is unsure about one of them because its digits might represent another word as well. Which word is ambiguous?",
+      "options": [
+          "BONE",
+          "MIST",
+          "FOLD",
+          "GLOW"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q13",
+      "question": "Alice, Benjamin, Charlotte, David, and Ella are friends. Each of them has either green eyes or hazel eyes. They each enjoy exactly two of the following four activities: jogging, painting, playing guitar, and gardening. The following clues are given:<ol style='text-align:start'><li>Alice likes painting and jogging.</li><li>Benjamin likes playing guitar and jogging.</li><li>Charlotte likes gardening.</li><li>Everyone likes jogging except one person with green eyes.</li><li>Everyone with hazel eyes likes painting.</li></ol>Which one of the following statements must be true?",
+      "options": [
+          "There are more people with hazel than green eyes in the friend circle.",
+          "Benjamin and Charlotte have green eyes.",
+          "Alice and Benjamin have hazel eyes.",
+          "Ella likes painting."
+      ],
+      "correct": 1
+  },
+  {
+    "questionNo": "Q14",
+    "question": "Four phone shops – ZenZone, Alpha Audio, BoltTech, and PixelWorld – are selling the same mobile phone.<ul style='text-align:start'><li> Alpha Audio delivers slower than BoltTech but faster than PixelWorld.</li><li> PixelWorld is cheaper than BoltTech. </li><li>Alpha Audio costs more than BoltTech but less than ZenZone.</li></ul> Nathan needs fast delivery but can’t afford the priciest phone. Which store should he choose?",
+    "options": [
+      "ZenZone",
+      "Alpha Audio",
+      "BoltTech",
+      "PixelWorld"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15",
+    "question": "In a fantasy video game, the door to a hidden treasure chamber opens when you input a specific four‑symbol sequence. The symbols are: a Shield, a Rose, a Lantern, and a Crown. The following clues have been discovered: <ol style='text-align:start'><li> The Lantern is placed immediately next to the Crown.</li><li> The Rose is somewhere between the Shield and the Lantern.</li><li> The Crown is located to the right of the Shield.</li></ol> Before you try to enter the code, you are allowed to ask one yes/no question to help determine the unique order. Which question will help you deduce the complete code?",
+    "options": [
+      "Is the Rose placed immediately next to the Crown?",
+      "Is the Shield placed immediately next to the Rose?",
+      "Is the Lantern directly adjacent to the Shield?",
+      "Is the Crown placed immediately next to the Shield?"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16",
+    "question": "Three switches control four lamps arranged in a room. When you toggle a switch, each lamp it controls changes state. The configuration is:<ul style='text-align:start'><li> Switch 1 controls the Orange and Purple lamps.</li><li> Switch 2 controls the Orange, Purple, and Cyan lamps.</li><li> Switch 3 controls the Cyan and Magenta lamps.</li></ul> If all three switches are off, all four lamps are off.<br> Which of the following statements must be true?",
+    "options": [
+      "The Orange lamp cannot be on if the Purple lamp is off.",
+      "The Cyan lamp cannot be on when the Magenta lamp is on.",
+      "The Purple lamp cannot be on when the Cyan lamp is on.",
+      "It is impossible to have all four lamps on."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17",
+    "question": "Six friends—Iva, Jason, Kara, Liam, Myra, and Nolan—are standing in a circle in the school courtyard, all facing inward. The following clues describe their positions:<ol style='text-align:start'><li> Iva is standing immediately to the left of Jason, and she is directly opposite Myra.</li><li>Liam is standing next to Jason and facing Nolan.</li><li> Kara is between Myra and Nolan.</li></ol> They are playing a game in which they toss a ball according to this pattern: – The current holder throws the ball to the person directly opposite, – Then that person passes the ball to the friend immediately to their left. After three repetitions of this pattern in the first round, Myra is holding the ball.<br>Who was holding the ball at the start?",
+    "options": [
+      "Iva",
+      "Nolan",
+      "Myra",
+      "Jason"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18",
+    "question": "There are six houses in a row.<ul style='text-align:start'><li> Mr. Lal has Mr. Bhasin and Mr. Sachdeva as neighbours.</li><li> Mr. Bhatia has Mr. Gupta and Mr. Sharma as neighbours.</li><li> Mr. Gupta's house is not next to Mr. Bhasin or Mr. Sachdeva and </li><li>Mr. Sharma does not live next to Mr. Sachdeva.</li></ul> Who are Mr. Bhasin's next-door neighbours?",
+    "options": [
+      "Mr. Lal and Mr. Bhasin",
+      "Mr. Lal and Mr. Sharma",
+      "Mr. Sachdeva and Mr. Lal",
+      "Only Mr. Lal"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19",
+    "question": "A, B, C, D, E, F, G, and H are sitting in a row facing north.<ul style='text-align:start'><li> A is fourth to the right of E.</li><li> H is fourth to the left of D.</li><li> C and F, which are not at the ends, are neighbours of B and E, respectively.</li><li> H is next to the left of A, and A is a neighbour of B.</li></ul> Who are sitting at the ends?",
+    "options": [
+      "F and C",
+      "F and D",
+      "G and B",
+      "None of these"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q20",
+    "question": "Eleven students A, B, C, D, E, F, G, H, I, J, and K are sitting in a row of the class facing the teacher.<ul style='text-align:start'><li> D, who is to the immediate left of F, is second to the right of C.</li><li> A is second to the right of E, who is at one of the ends.</li><li> J is the immediate neighbour of A and B and third to the left of G.</li><li> H is to the immediate left of D and third to the right of I.</li></ul> If E and D, C and B, A and H & K and F interchange their positions, which of the following pairs is sitting at the end?",
+    "options": [
+      "D and E",
+      "D and K",
+      "E and F",
+      "K and F"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q21",
+    "question": "Eight friends E, F, G, H, I, J, K, and L are seated around a square table, two on each side.<ul style='text-align:start'><li> There are three lady members and they are not seated next to each other. </li><li>J is between L and F.</li><li> G is between I and F.</li><li> H, a lady member, is second to the left of J.</li><li> F, a male member, is seated opposite to E, a lady.</li><li> There is a lady member between F and I.<li></ul> How many people are seated between K and F?",
+    "options": [
+      "Two",
+      "Three",
+      "Can't be determined",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q22",
+    "question": "Eight friends A, B, C, D, E, F, G, and H are sitting in a circle facing the centre.<ul style='text-align:start'><li> B is sitting between G and D.</li><li> H is third to the left of B and second to the right of A.</li><li> C is sitting between A and G, and B and E are not sitting opposite to each other.</li></ul> Which of the following statements is not correct?",
+    "options": [
+      "D and A are sitting opposite to each other.",
+      "C is third to the right of D.",
+      "E is sitting between F and D.",
+      "A is sitting between C and F."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q23",
+    "question": "P, Q, R, S, T, U, V, and W are sitting round the circle facing the centre.<ul style='text-align:start'><li> P is second to the right of T, who is the neighbour of R and V.</li><li> S is not the neighbour of P.</li><li> V is the neighbour of U.</li><li> Q is not between S and W.</li><li> W is not between U and S.</li></ul> Which of the following is correct?",
+    "options": [
+      "P is to the immediate right of Q",
+      "R is between U and V",
+      "Q is to the immediate left of W",
+      "U is between W and S"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q24",
+    "question": "Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal.<ul style='text-align:start'><li> P is second to the left of U.</li><li> Q is a neighbour of R and S.</li><li> T is second to the left of S.</li></ul> Which one is sitting opposite to P?",
+    "options": [
+      "R",
+      "T",
+      "Q",
+      "S"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q25",
+    "question": "A group of eight people—Jack, Kelly, Liam, Maria, Noah, Olivia, Patrick, and Quinn—are sitting in a circle. Four are men, and four are women.<ul style='text-align:start'><li> No two men or two women are seated next to each other.</li><li> Olivia is sitting between Patrick and Jack, facing Maria.</li><li> Liam is seated between Maria and Kelly, facing Patrick.</li><li> Quinn is seated to the left of Noah.</li></ul> Which one of the following statements is true?",
+    "options": [
+      "Kelly is sitting between Maria and Patrick.",
+      "Jack is sitting opposite Noah.",
+      "Quinn is sitting third to the right of Maria.",
+      "None of the above."
+    ],
+    "correct": 1
+  }
+]
