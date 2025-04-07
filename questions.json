@@ -28,9 +28,9 @@
           "Colin didn't stretch but still got selected.",
           "Colin stretched but didn’t get selected.",
           "Colin performed well but wasn’t selected.",
-          "Colin was sore but still performed well."
+          "None of these"
       ],
-      "correct": 2
+      "correct": 0
   },
   {
       "questionNo": "Q4",
